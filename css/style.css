@@ -10,6 +10,7 @@
   background-color: transparent;
   border-bottom: 2px solid #fff;
   transition: all .3s linear;
+  outline: none;
 }
 
 .test-input-new::placeholder {
